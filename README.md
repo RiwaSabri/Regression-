@@ -1,6 +1,6 @@
 # Regression-
 
-For full presentation, click [here]()
+For full presentation, click [here.](https://github.com/riwasabri/Regression-/blob/master/Regression%20-%20Presentation.pdf)
 
 ## **Abstract** 
 The goal of this project is to build a linear regression model that would predict the price of used
