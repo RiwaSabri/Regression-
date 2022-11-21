@@ -1,4 +1,4 @@
-# Regression-
+# Using the power of data to flip used cars
 
 For full presentation, click [here.](https://github.com/riwasabri/Regression-/blob/master/Regression%20-%20Presentation.pdf)
 
