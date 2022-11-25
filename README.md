@@ -31,7 +31,7 @@ engine was broken down into valvetrain and engine displacement
 **Feature Engineering**:
 	
 * Adding Polynomial Relationship Year vs Price
-* Dummy Variable Creation: Make, Model, Valvetrain Type,
+* Dummy Variable Creation: Make, Model, Valvetrain Type
 *  Interaction Variable : High Mileage x Luxury Cars
 * Log Transformation of Target
 
