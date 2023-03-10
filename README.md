@@ -1,4 +1,4 @@
-# Using the power of data to flip used cars
+# Assisting car buyers on cars.com in finding the best deals
 
 For full presentation, click [here.](https://github.com/riwasabri/Regression-/blob/master/Regression%20-%20Presentation.pdf)
 
